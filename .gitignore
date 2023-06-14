@@ -1,0 +1,7 @@
+build/
+dist/
+!dist/default/production/*.hex
+nbproject/Makefile-*
+nbproject/Package-*
+nbproject/private/
+.generated_files/
